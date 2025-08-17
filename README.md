@@ -6,6 +6,7 @@ A SQL-based data analysis project exploring pizza order data to extract business
 QUESTIONS SOLVED --
 Basic:
 1)Retrieve the total number of orders placed.
+
 2)Calculate the total revenue generated from pizza sales.
 3)Identify the highest-priced pizza.
 4)Identify the most common pizza size ordered.
